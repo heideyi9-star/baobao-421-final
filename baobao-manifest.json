@@ -1,0 +1,19 @@
+{
+  "name": "豹豹机",
+  "short_name": "豹豹机",
+  "description": "豹豹机4.9 · 420 快速启动版",
+  "start_url": "./?v=420-fastboot-20260725-2323",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f7f7",
+  "theme_color": "#f7f7f7",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png?v=304",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
